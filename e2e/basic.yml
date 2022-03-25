@@ -1,0 +1,3 @@
+upstream:
+  default:
+    - tcp-tls:one.one.one.one
